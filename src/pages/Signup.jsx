@@ -65,7 +65,7 @@ const Signup = () => {
         </form>
 
         <p className="mt-4 text-sm text-center text-gray-500">
-          Already have an account? <a href="/login" className="text-blue-500 hover:underline">Login here</a>
+          Already have an account? <a href="react-redux-auth-app/login#/login" className="text-blue-500 hover:underline">Login here</a>
         </p>
       </div>
     </div>

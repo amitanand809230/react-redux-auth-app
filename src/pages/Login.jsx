@@ -83,7 +83,8 @@ const Login = () => {
 
         <p className="text-sm text-gray-500 text-center mt-4">
           Don’t have an account?{' '}
-          <a href="/signup" className="text-blue-600 hover:underline">
+          <a href="/react-redux-auth-app/signup#/signup
+" className="text-blue-600 hover:underline">
             Sign up
           </a>
         </p>
